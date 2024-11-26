@@ -1,8 +1,5 @@
-# React + Vite
+# Coffee-Sore
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to our Coffee Store!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Discover a world of freshly brewed delights where quality meets passion. Our website offers an extensive collection of premium coffee blends, single-origin beans, and delightful accessories for coffee enthusiasts. Whether you are a seasoned connoisseur or a casual coffee lover, explore our offerings and elevate your coffee experience with us.
