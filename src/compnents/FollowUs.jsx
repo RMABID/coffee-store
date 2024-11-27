@@ -16,28 +16,28 @@ const FollowUs = () => {
         </h2>
       </div>
       <div className="grid w-10/12 mx-auto  md:grid-cols-4 items-center gap-4">
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img1} alt="" />
         </div>
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img2} alt="" />
         </div>
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img3} alt="" />
         </div>
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img4} alt="" />
         </div>
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img5} alt="" />
         </div>
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img6} alt="" />
         </div>
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img7} alt="" />
         </div>
-        <div>
+        <div className="hover:translate-y-[-12px] transition-all cursor-pointer overflow-hidden duration-500">
           <img className="w-full" src={instra_img8} alt="" />
         </div>
       </div>
